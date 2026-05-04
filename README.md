@@ -30,7 +30,7 @@ The system simulates real-world railway operations including ticket booking, can
 - Screenshots for output visualization  
 
 ## 🔹 Output / Screenshots
-()
+(Screenshot 2026-04-08 160434.png),(Screenshot 2026-04-08 155635.png)
 
 ## 🔹 Key Learning Outcomes
 - GUI application development using Tkinter  
